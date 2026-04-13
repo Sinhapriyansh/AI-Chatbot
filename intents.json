@@ -1,0 +1,7 @@
+{
+  "intents": [
+    {"tag": "greeting", "patterns": ["Hi", "Hello", "Hey"], "responses": ["Hello! How can I help you?", "Hi there!"]},
+    {"tag": "project", "patterns": ["Tell me about project", "What is this?"], "responses": ["This is an AI Chatbot project for AI Tools subject[cite: 2]."]},
+    {"tag": "creator", "patterns": ["Who made you?", "Developer?"], "responses": ["I was created by Priyansh and Shivam[cite: 6]."]}
+  ]
+}
